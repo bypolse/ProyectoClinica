@@ -2,7 +2,7 @@
 /**
  * Archivo: logout.php
  * Descripción: Cierre limpio de sesión y redirección al formulario de inicio de sesión.
- * Sistema: Clínica Salud Total C.A. - IUJO (Algoritmo y Programación II)
+ * Sistema: Clínica Salud Total C.A.
  */
 
 declare(strict_types=1);

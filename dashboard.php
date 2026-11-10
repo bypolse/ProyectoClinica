@@ -2,7 +2,7 @@
 /**
  * Archivo: dashboard.php
  * Descripción: Panel principal con tarjetas de estadísticas, buscador y tabla CRUD de pacientes.
- * Sistema: Clínica Salud Total C.A. - IUJO (Algoritmo y Programación II)
+ * Sistema: Clínica Salud Total C.A.
  */
 
 declare(strict_types=1);

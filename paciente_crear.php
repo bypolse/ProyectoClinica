@@ -2,7 +2,7 @@
 /**
  * Archivo: paciente_crear.php
  * Descripción: Registro de nuevos pacientes con validaciones en servidor (PHP/PDO) y cliente (JS).
- * Sistema: Clínica Salud Total C.A. - IUJO (Algoritmo y Programación II)
+ * Sistema: Clínica Salud Total C.A.
  */
 
 declare(strict_types=1);

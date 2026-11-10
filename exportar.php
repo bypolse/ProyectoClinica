@@ -2,7 +2,7 @@
 /**
  * Archivo: exportar.php
  * Descripción: Exportación nativa a CSV/Excel del listado de pacientes y usuario responsable.
- * Sistema: Clínica Salud Total C.A. - IUJO (Algoritmo y Programación II)
+ * Sistema: Clínica Salud Total C.A.
  */
 
 declare(strict_types=1);

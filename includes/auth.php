@@ -2,7 +2,7 @@
 /**
  * Archivo: includes/auth.php
  * Descripción: Gestión de sesiones, control de acceso por roles y utilidades de seguridad.
- * Sistema: Clínica Salud Total C.A. - IUJO (Algoritmo y Programación II)
+ * Sistema: Clínica Salud Total C.A.
  */
 
 declare(strict_types=1);

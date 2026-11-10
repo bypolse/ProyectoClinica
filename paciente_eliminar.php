@@ -2,7 +2,7 @@
 /**
  * Archivo: paciente_eliminar.php
  * Descripción: Eliminación segura de pacientes (restringida exclusivamente al rol Administrador).
- * Sistema: Clínica Salud Total C.A. - IUJO (Algoritmo y Programación II)
+ * Sistema: Clínica Salud Total C.A.
  */
 
 declare(strict_types=1);

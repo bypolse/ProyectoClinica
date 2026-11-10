@@ -1,6 +1,6 @@
 -- ============================================================================
--- Proyecto Académico: Sistema Web de Gestión de Pacientes
--- Institución: IUJO - Algoritmo y Programación II
+-- Sistema Web de Gestión de Pacientes
+-- Institución: Clínica Salud Total C.A.
 -- Entidad: Clínica Salud Total C.A.
 -- Motor: MySQL / MariaDB (Compatible con phpMyAdmin - XAMPP / WampServer)
 -- ============================================================================

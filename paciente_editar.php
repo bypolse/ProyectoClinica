@@ -2,7 +2,7 @@
 /**
  * Archivo: paciente_editar.php
  * Descripción: Edición y actualización de datos de un paciente existente mediante PDO.
- * Sistema: Clínica Salud Total C.A. - IUJO (Algoritmo y Programación II)
+ * Sistema: Clínica Salud Total C.A.
  */
 
 declare(strict_types=1);

@@ -2,7 +2,7 @@
 /**
  * Archivo: includes/footer.php
  * Descripción: Pie de página semántico HTML5 y scripts de validación Vanilla JS.
- * Sistema: Clínica Salud Total C.A. - IUJO (Algoritmo y Programación II)
+ * Sistema: Clínica Salud Total C.A.
  */
 
 declare(strict_types=1);
@@ -15,7 +15,7 @@ declare(strict_types=1);
                 &copy; <?= date('Y') ?> <strong>Clínica Salud Total C.A.</strong> &mdash; Sistema de Gestión de Pacientes.
             </p>
             <p class="footer-meta">
-                Proyecto Académico &bull; Instituto Universitario Jesús Obrero (IUJO) &bull; Algoritmo y Programación II
+                Todos los derechos reservados.
             </p>
         </div>
     </footer>

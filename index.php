@@ -2,7 +2,7 @@
 /**
  * Archivo: index.php
  * Descripción: Inicio de sesión seguro con PDO Prepared Statements y password_verify().
- * Sistema: Clínica Salud Total C.A. - IUJO (Algoritmo y Programación II)
+ * Sistema: Clínica Salud Total C.A.
  */
 
 declare(strict_types=1);
@@ -82,7 +82,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <main class="login-wrapper">
         <section class="login-card" aria-labelledby="login-heading">
             <div class="login-header">
-                <div class="login-logo" aria-hidden="true">+</div>
+                <div class="login-logo" aria-label="Logo Salud Total">
+                    <img src="img/icono-salud-total.png" alt="Icono Salud Total">
+                </div>
                 <h1 id="login-heading">Clínica Salud Total C.A.</h1>
                 <p>Sistema Web de Gestión de Pacientes</p>
             </div>
@@ -135,6 +137,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 </button>
             </form>
 
+            <!-- Sección de credenciales de prueba ocultada -->
+            <!--
             <aside class="login-credentials-box" aria-label="Credenciales de prueba académica">
                 <h2>Credenciales de Prueba (Semilla SQL)</h2>
                 <div class="credential-items">
@@ -146,6 +150,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     </div>
                 </div>
             </aside>
+            -->
         </section>
     </main>
 

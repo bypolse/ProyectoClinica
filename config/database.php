@@ -2,7 +2,7 @@
 /**
  * Archivo: config/database.php
  * Descripción: Configuración y conexión centralizada a MySQL mediante PDO.
- * Sistema: Clínica Salud Total C.A. - IUJO (Algoritmo y Programación II)
+ * Sistema: Clínica Salud Total C.A.
  */
 
 declare(strict_types=1);

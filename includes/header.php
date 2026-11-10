@@ -2,7 +2,7 @@
 /**
  * Archivo: includes/header.php
  * Descripción: Encabezado HTML5 semántico y barra de navegación principal.
- * Sistema: Clínica Salud Total C.A. - IUJO (Algoritmo y Programación II)
+ * Sistema: Clínica Salud Total C.A.
  */
 
 declare(strict_types=1);
@@ -20,7 +20,7 @@ $flash         = obtenerMensajeFlash();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Sistema Web de Gestión de Pacientes - Clínica Salud Total C.A. (IUJO)">
+    <meta name="description" content="Sistema Web de Gestión de Pacientes - Clínica Salud Total C.A.">
     <title><?= e($tituloPagina) ?> | Clínica Salud Total C.A.</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
@@ -28,7 +28,9 @@ $flash         = obtenerMensajeFlash();
     <header class="site-header no-print">
         <div class="container navbar-wrapper">
             <a href="dashboard.php" class="brand-logo" title="Ir al Panel Principal">
-                <span class="brand-icon" aria-hidden="true">+</span>
+                <span class="brand-icon" aria-hidden="true">
+                    <img src="img/icono-salud-total.png" alt="Logo Salud Total">
+                </span>
                 <div class="brand-text">
                     <span class="brand-title">Clínica Salud Total C.A.</span>
                     <span class="brand-subtitle">Gestión Integral de Pacientes</span>
